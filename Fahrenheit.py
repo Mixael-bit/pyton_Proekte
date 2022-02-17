@@ -5,4 +5,4 @@ print ("Du hast " +fahrenheit + "° Fahrenheit angegeben.")
 
 fahrenheitFloat = float(fahrenheit)
 celsius = (fahrenheitFloat -32) * 5/9
-print ("%s° Fahrenheit sind %0,2f° Celsius" %(fahrenheit, celsius))
+print ("%s° Fahrenheit sind %0.2f° Celsius" %(fahrenheit, celsius))
