@@ -1,3 +1,8 @@
-import tkinter
+import tkinter as tk
 
-root = tkinter.Tk()
+root = tk.Tk()
+
+label1 = tk.Label(root, text="Hallo Welt")
+label1 = tk.Pack()
+
+root.mainloop()
