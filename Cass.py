@@ -3,4 +3,8 @@ class Car:
         self.car_brand = None
         self.horse_power = None
         self.color = None
-        
+
+
+
+
+car1 = car()
